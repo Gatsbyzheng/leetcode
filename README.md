@@ -1,4 +1,4 @@
-# leetcode学习
+# leetcode-算法练习
 ## IDEA插件配置
 配置示例：
 
